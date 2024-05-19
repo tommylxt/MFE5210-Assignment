@@ -1,0 +1,28 @@
+## Correlation matrix
+- maximal correlation = 0.3265
+![img.png](img.png)
+
+## Average sharp ratio for all alpha factors
+- Average sharp ratio
+= (1.9364 + 1.3304 + 1.0451) / 3 = 1.4373  
+
+- PCR因子  
+------------------- strategy effect ---------------------  
+annual return: 12.38%  
+annual std: 6.39%  
+sharpe ratio: 1.9364  
+maximum drawdown: -4.12%  
+
+- CV_Skew因子  
+------------------- strategy effect ---------------------  
+annual return: 17.76%  
+annual std: 13.35%  
+sharpe ratio: 1.3304  
+maximum drawdown: -14.86%  
+
+- 基差因子  
+------------------- strategy effect ---------------------  
+annual return: 9.04%  
+annual std: 8.65%  
+sharpe ratio: 1.0451  
+maximum drawdown: -8.92%
